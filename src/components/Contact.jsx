@@ -3,9 +3,9 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 import HomeImage from "../assets/1 Newborn Com/02/52.jpg";
 import "./Contact.css";
-import profile from "../assets/AboutUs/Photographer.jpg";
+import profile from "../assets/AboutUs/photographer.jpg";
 import whatsapp from "../assets/AboutUs/whatsapp.png";
-import call from "../assets/AboutUs/call.png";
+import call from "../assets/AboutUs/Call.png";
 
 // const handleSubmit = () => {};
 
