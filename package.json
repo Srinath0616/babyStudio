@@ -40,7 +40,7 @@
     "main":  "eslint.config.js",
     "repository":  {
                        "type":  "git",
-                       "url":  "git+https://github.com/Srinath0616/BabyStudio.git"
+                       "url":  "git+https://github.com/Srinath0616/babyStudio.git"
                    },
     "keywords":  [
 
@@ -48,7 +48,7 @@
     "author":  "",
     "license":  "ISC",
     "bugs":  {
-                 "url":  "https://github.com/Srinath0616/BabyStudio/issues"
+                 "url":  "https://github.com/Srinath0616/babyStudio/issues"
              },
-    "homepage":  "https://github.com/Srinath0616/BabyStudio#readme"
+    "homepage":  "https://github.com/Srinath0616/babyStudio#readme"
 }

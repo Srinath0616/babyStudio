@@ -1,7 +1,7 @@
 // Creative.jsx
 import React, { useEffect, useRef, useState } from "react";
 import Navbar from "./Navbar";
-import HomeImage from "../../optimized/creativepage/PRA_1014.jpg";
+import HomeImage from "../../optimized/creativepage/pra_1014.jpg";
 import "./Creative.css";
 import Footer from "./Footer";
 
