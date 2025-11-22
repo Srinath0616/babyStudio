@@ -5,7 +5,7 @@ import HomeImage from "../../optimized/creativepage/pra_1014.jpg";
 import "./Contact.css";
 import profile from "../assets/AboutUs/photographer.jpg";
 import whatsapp from "../assets/AboutUs/whatsapp.png";
-import call from "../assets/AboutUs/call.png";
+import call from "../assets/AboutUs/Call.png";
 
 // const handleSubmit = () => {};
 
